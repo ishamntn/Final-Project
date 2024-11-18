@@ -181,7 +181,7 @@ body {
 }
 
 /* Sections */
-.services, .contact, .blog {
+.services, .contact, .faq {
   padding: 50px 30px;
   text-align: center;
   background-color: rgba(0, 0, 0, 0.8);
